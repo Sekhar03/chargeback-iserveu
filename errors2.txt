@@ -1,0 +1,143 @@
+src/components/ViewChargeback.tsx(64,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(64,78): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(65,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(67,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(68,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(68,53): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(69,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(69,70): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(70,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(70,124): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(72,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(72,53): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(73,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(73,51): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(76,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(78,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(79,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(81,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(84,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(84,61): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(85,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(92,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(93,44): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(94,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(101,10): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(102,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(104,8): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(105,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(105,69): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(106,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(106,69): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(107,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(114,5): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(115,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(117,8): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(120,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(120,70): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(125,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(126,44): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(128,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(130,20): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(132,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(133,44): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(134,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(135,44): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(136,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(137,44): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(138,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(139,17): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(140,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(142,10): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(145,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(150,18): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(152,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(172,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(174,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(177,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(179,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(181,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(183,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(205,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(208,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(208,72): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(211,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(213,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(214,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(216,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(219,13): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(219,27): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(220,15): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(221,17): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(222,18): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(223,21): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(224,25): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(226,3): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(226,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(226,78): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(227,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(227,51): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(229,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(254,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(256,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(305,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(307,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(309,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(311,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(349,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(351,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(354,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(356,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(370,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(372,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(389,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(392,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(530,5): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(532,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(563,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(565,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(586,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(588,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(599,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(601,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(606,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(608,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(619,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(621,9): error TS1005: ':' expected.
+src/components/ViewChargeback.tsx(626,4): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(629,5): error TS1003: Identifier expected.
+src/components/ViewChargeback.tsx(629,10): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(631,12): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(647,9): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(648,9): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(648,14): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(649,11): error TS2657: JSX expressions must have one parent element.
+src/components/ViewChargeback.tsx(652,9): error TS1005: ',' expected.
+src/components/ViewChargeback.tsx(653,7): error TS1109: Expression expected.
+src/components/ViewChargeback.tsx(655,8): error TS1136: Property assignment expected.
+src/components/ViewChargeback.tsx(914,8): error TS1128: Declaration or statement expected.
+src/components/ViewChargeback.tsx(1130,15): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(1501,19): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(1612,17): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(1844,23): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(1912,9): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(2080,25): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2286,25): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2429,27): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2476,27): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2519,27): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2610,27): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2885,25): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(3398,19): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(3453,23): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(3845,9): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(3926,21): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(3930,77): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(3945,21): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(3949,77): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(3999,19): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(4003,75): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(4071,19): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(4075,75): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(4174,5): error TS1128: Declaration or statement expected.
+src/components/ViewChargeback.tsx(4175,1): error TS1109: Expression expected.

@@ -1,0 +1,38 @@
+src/components/ViewChargeback.tsx(56,3): error TS1136: Property assignment expected.
+src/components/ViewChargeback.tsx(58,3): error TS1109: Expression expected.
+src/components/ViewChargeback.tsx(60,3): error TS1109: Expression expected.
+src/components/ViewChargeback.tsx(62,3): error TS1109: Expression expected.
+src/components/ViewChargeback.tsx(64,3): error TS1109: Expression expected.
+src/components/ViewChargeback.tsx(66,3): error TS1109: Expression expected.
+src/components/ViewChargeback.tsx(68,3): error TS1109: Expression expected.
+src/components/ViewChargeback.tsx(70,3): error TS1109: Expression expected.
+src/components/ViewChargeback.tsx(70,4): error TS1128: Declaration or statement expected.
+src/components/ViewChargeback.tsx(95,3): error TS1136: Property assignment expected.
+src/components/ViewChargeback.tsx(97,3): error TS1109: Expression expected.
+src/components/ViewChargeback.tsx(99,3): error TS1109: Expression expected.
+src/components/ViewChargeback.tsx(101,3): error TS1109: Expression expected.
+src/components/ViewChargeback.tsx(101,4): error TS1128: Declaration or statement expected.
+src/components/ViewChargeback.tsx(1142,15): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(1513,19): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(1624,17): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(1856,23): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(1924,9): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(2092,25): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2298,25): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2441,27): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2488,27): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2531,27): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2622,27): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(2897,25): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(3410,19): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(3465,23): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(3857,9): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(3938,21): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(3942,77): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(3957,21): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(3961,77): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(4011,19): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(4015,75): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(4083,19): error TS1135: Argument expression expected.
+src/components/ViewChargeback.tsx(4087,75): error TS1005: ')' expected.
+src/components/ViewChargeback.tsx(4187,1): error TS1005: ')' expected.
